@@ -1,0 +1,89 @@
+[33mcommit 9efc0b58193db7b03ab13ad1812e91835df77d38[m[33m ([m[1;36mHEAD -> [m[1;32mexercise_2[m[33m, [m[1;32mfix/exercise_1[m[33m)[m
+Author: Andy Schunke <schunke.andy@gmail.com>
+Date:   Tue Sep 27 20:24:38 2022 +0200
+
+    fixed [findCharacter...function]: returning right character
+
+[33mcommit da4a4dcd4e27c285c1fa9ec90b31047723fa431f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: David Rajcher <davidrajcher@Davids-MacBook-Pro-2.local>
+Date:   Tue Sep 27 18:49:43 2022 +0200
+
+    hints added
+
+[33mcommit 141450acc32f98d7537a0a7228d4272e4f0ac2ec[m
+Author: David Rajcher <davidrajcher@Davids-MacBook-Pro-2.local>
+Date:   Tue Sep 27 13:08:10 2022 +0200
+
+    added overview
+
+[33mcommit 4c69b76c7e13f22d417807946f4286a988620f2f[m
+Author: David Rajcher <davidrajcher@Davids-MacBook-Pro-2.local>
+Date:   Tue Sep 27 11:55:05 2022 +0200
+
+    all solution and exes are ready
+
+[33mcommit 393f4d2eb4dc842f9fb2de2a221d400d3a656bc2[m
+Author: David Rajcher <davidrajcher@Davids-MacBook-Pro-2.local>
+Date:   Mon Sep 26 13:31:10 2022 +0200
+
+    added solutions and tests to all exes
+
+[33mcommit eade687744fe968c558e621c0107738ae65cf129[m
+Author: David Rajcher <davidrajcher@Davids-MacBook-Pro-2.local>
+Date:   Fri Sep 23 16:24:53 2022 +0200
+
+    structure 6-10
+
+[33mcommit d1676b572383a737dd7b91132ceaf4eb4b00c4bb[m
+Author: David Rajcher <davidrajcher@Davids-MacBook-Pro-2.local>
+Date:   Fri Sep 23 15:58:52 2022 +0200
+
+    created exe 5
+
+[33mcommit 1b8cd3bbee3c4e3e41993e23153971ab42302208[m
+Author: David Rajcher <davidrajcher@Davids-MacBook-Pro-2.local>
+Date:   Fri Sep 23 15:58:42 2022 +0200
+
+    created exe 4
+
+[33mcommit 97d16e15e0dfedc7c45e3b982aa31e8f3d92fa99[m
+Author: David Rajcher <davidrajcher@Davids-MacBook-Pro-2.local>
+Date:   Fri Sep 23 15:52:19 2022 +0200
+
+    created scripts for exercise 1-5
+
+[33mcommit 3e248b3f939c64f3796497e0287f6c403ebc8bc7[m
+Author: David Rajcher <davidrajcher@Davids-MacBook-Pro-2.local>
+Date:   Fri Sep 23 15:52:07 2022 +0200
+
+    created readme
+
+[33mcommit 122066258fcdba20728cd166a386471c491cc9af[m
+Author: David Rajcher <davidrajcher@Davids-MacBook-Pro-2.local>
+Date:   Fri Sep 23 15:51:56 2022 +0200
+
+    created exe 3
+
+[33mcommit 6fa0c4157ce7265763c67815535a6a3c76507f99[m
+Author: David Rajcher <davidrajcher@Davids-MacBook-Pro-2.local>
+Date:   Fri Sep 23 15:51:47 2022 +0200
+
+    created exe 2
+
+[33mcommit 134032be3f8d3b106af4941e258051b409fba2d2[m
+Author: David Rajcher <davidrajcher@Davids-MacBook-Pro-2.local>
+Date:   Fri Sep 23 15:51:41 2022 +0200
+
+    created exe 1
+
+[33mcommit 81041bcd6e41fe012204c073299003da8dcafdcf[m
+Author: David Rajcher <davidrajcher@Davids-MacBook-Pro-2.local>
+Date:   Fri Sep 23 15:19:11 2022 +0200
+
+    added all data
+
+[33mcommit dcb984da977ae46d59171593a118a8a9e714bfa5[m
+Author: David Rajcher <davidrajcher@Davids-MacBook-Pro-2.local>
+Date:   Fri Sep 23 14:54:32 2022 +0200
+
+    init
